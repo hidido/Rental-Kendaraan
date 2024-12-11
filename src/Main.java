@@ -118,3 +118,4 @@ public class Main {
         program.input.close(); // Tutup Scanner di akhir program
     }
 }
+//hello
